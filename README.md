@@ -18,12 +18,6 @@ Hotels list rooms with base prices. The system automatically adjusts the price d
 3. System calculates demand rate = bookedRooms / totalRooms.
 4. Price increases when demand increases.
 
-## Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/Dynamic-Pricing-Hotel-Booking-System.git
-
 Install dependencies
 
 npm install
